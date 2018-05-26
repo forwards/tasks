@@ -34,6 +34,7 @@ We sort ideas and tasks by hearts per team, core team meet to prioritise tasks.
 Team leaders 
  - add milestones to tasks that we will start on right away
  - add "help wanted" and (if appropriate) "good first issue" labels to new tasks, or existing tasks where more help is needed
+ - match team members to tasks where they see a good fit
 
 Taskforce members
  - assign themselves to issues where help is needed
