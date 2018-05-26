@@ -42,7 +42,7 @@ Taskforce members
    required (e.g. more people to help with task directly or someone to mentor you doing task)
    
 Non-taskforce members
- - let us know in the comments if you can hep with a specific issue (one-off help), or would like to join a team (commit beyond 
+ - let us know in the comments if you can help with a specific issue (one-off help), or would like to join a team (commit beyond 
  one-off task)!
  
 ## Ongoing work
